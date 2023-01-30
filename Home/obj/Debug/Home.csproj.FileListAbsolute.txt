@@ -1,0 +1,11 @@
+C:\Users\chris\OneDrive\Escritorio\Directorio Luin\Home\bin\Debug\Home.exe.config
+C:\Users\chris\OneDrive\Escritorio\Directorio Luin\Home\bin\Debug\Home.exe
+C:\Users\chris\OneDrive\Escritorio\Directorio Luin\Home\bin\Debug\Home.pdb
+C:\Users\chris\OneDrive\Escritorio\Directorio Luin\Home\obj\Debug\Home.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\Directorio Luin\Home\obj\Debug\Home.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Escritorio\Directorio Luin\Home\obj\Debug\Home.Form1.resources
+C:\Users\chris\OneDrive\Escritorio\Directorio Luin\Home\obj\Debug\Home.Properties.Resources.resources
+C:\Users\chris\OneDrive\Escritorio\Directorio Luin\Home\obj\Debug\Home.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Escritorio\Directorio Luin\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\Directorio Luin\Home\obj\Debug\Home.exe
+C:\Users\chris\OneDrive\Escritorio\Directorio Luin\Home\obj\Debug\Home.pdb
